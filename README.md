@@ -1,5 +1,5 @@
 # Universal Quantum Parametric Learning - BaQProp
-Here we provide an example of an application of the universal training algorithm proposed in our paper arxiv.org/abs/1806.09729 for 1 qubit data learning. The paper is a bit on the long side, in case of TL;DR here is a rough list of things that were introduced :
+Here we provide an example of an application of the universal training algorithm proposed in our paper https://arxiv.org/abs/1806.09729 for 1 qubit data learning. The paper is a bit on the long side, in case of TL;DR here is a rough list of things that were introduced :
 
 1. A general quantum backpropagation scheme (which we call BaQProp), which can be thought of as a way to embed loss function information in phases of a wavefunction of parameters. It is similar to classical backpropagation and is also applicable to quantum parametric circuits (Not just neural networks)
 
